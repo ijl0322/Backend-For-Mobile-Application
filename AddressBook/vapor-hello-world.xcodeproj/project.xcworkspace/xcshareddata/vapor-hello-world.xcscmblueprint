@@ -1,0 +1,198 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA64A9D2869A8EB9F0025CBAB53CA9186B5D330C+++52738E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "789252EF81C502A43EF1153AAFB885D64C59FEBD+++66B8EBE" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++A064C6D" : 9223372036854775807,
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++11830AD" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++6C9C6B6" : 9223372036854775807,
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++7E14E3F" : 9223372036854775807,
+    "EA64A9D2869A8EB9F0025CBAB53CA9186B5D330C+++52738E1" : 9223372036854775807,
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC+++8F939E9" : 9223372036854775807,
+    "D81F653129D614C7585FD79F985702AFD09DBE56+++6B72B68" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++96BA961" : 9223372036854775807,
+    "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++FBD7E3F" : 9223372036854775807,
+    "7E7C1062562B886ABFA1C65C1E929E1339657116+++920D978" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++ED8ABDD" : 9223372036854775807,
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++4D91E5D" : 9223372036854775807,
+    "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++2C90E75" : 9223372036854775807,
+    "6400345F86F53D4096DD633F09AAE772FA6A202B+++9DD3CEC" : 9223372036854775807,
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC+++5DF8F43" : 9223372036854775807,
+    "9D593077127927B16A2AFDAF369C35CBF2F2669C+++AF7F0D4" : 9223372036854775807,
+    "0A000D15E5D587E98AA6062DC3514BBD1EE82D08+++F2E0BC5" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++B2E6A84" : 9223372036854775807,
+    "013355313FF9FF2B55EA1241A5D12353638D9AC3+++446CB15" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++DEE5686" : 9223372036854775807,
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++B8F5CF7" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++9762F05" : 9223372036854775807,
+    "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++E7E15BB" : 9223372036854775807,
+    "9948E95A70F754B78E92114BF205DC946294AF5D+++566AAB7" : 9223372036854775807,
+    "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++DD34A35" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8AC46CD6-CA12-40CF-960B-D97B08AC33E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "789252EF81C502A43EF1153AAFB885D64C59FEBD+++66B8EBE" : "vapor-hello-world\/.build\/checkouts\/clibressl.git-4924093653370840509\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++A064C6D" : "vapor-hello-world\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++11830AD" : "vapor-hello-world\/.build\/checkouts\/path-indexable.git-6101080875983074629\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++6C9C6B6" : "vapor-hello-world\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++7E14E3F" : "vapor-hello-world\/.build\/checkouts\/path-indexable.git-6101080875983074629\/",
+    "EA64A9D2869A8EB9F0025CBAB53CA9186B5D330C+++52738E1" : "vapor-hello-world\/",
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC+++8F939E9" : "vapor-hello-world\/.build\/checkouts\/polymorphic.git--4354167031091999056\/",
+    "D81F653129D614C7585FD79F985702AFD09DBE56+++6B72B68" : "vapor-hello-world\/.build\/checkouts\/postgresql.git-5650722971996441103\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++96BA961" : "vapor-hello-world\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++FBD7E3F" : "vapor-hello-world\/.build\/checkouts\/socks.git--8001262774462276871\/",
+    "7E7C1062562B886ABFA1C65C1E929E1339657116+++920D978" : "vapor-hello-world\/.build\/checkouts\/Turnstile.git-2443676010155639616\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++ED8ABDD" : "vapor-hello-world\/.build\/checkouts\/core.git-9210800844849382486\/",
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++4D91E5D" : "vapor-hello-world\/.build\/checkouts\/node.git-9175390252000121167\/",
+    "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++2C90E75" : "vapor-hello-world\/.build\/checkouts\/multipart.git-4210556629793786970\/",
+    "6400345F86F53D4096DD633F09AAE772FA6A202B+++9DD3CEC" : "vapor-hello-world\/.build\/checkouts\/leaf.git-9164445114487378533\/",
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC+++5DF8F43" : "vapor-hello-world\/.build\/checkouts\/Jay.git--595626396716718175\/",
+    "9D593077127927B16A2AFDAF369C35CBF2F2669C+++AF7F0D4" : "vapor-hello-world\/.build\/checkouts\/postgresql-driver.git-1390385983276277199\/",
+    "0A000D15E5D587E98AA6062DC3514BBD1EE82D08+++F2E0BC5" : "vapor-hello-world\/.build\/checkouts\/postgresql-provider--8238225841508410504\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++B2E6A84" : "vapor-hello-world\/.build\/checkouts\/routing.git-5366657101075133678\/",
+    "013355313FF9FF2B55EA1241A5D12353638D9AC3+++446CB15" : "vapor-hello-world\/.build\/checkouts\/tls.git-2678149690400510061\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++DEE5686" : "vapor-hello-world\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++B8F5CF7" : "vapor-hello-world\/.build\/checkouts\/fluent.git-6251908308727715749\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++9762F05" : "vapor-hello-world\/.build\/checkouts\/engine.git-3311994267206676365\/",
+    "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++E7E15BB" : "vapor-hello-world\/.build\/checkouts\/console.git--2431895819212044213\/",
+    "9948E95A70F754B78E92114BF205DC946294AF5D+++566AAB7" : "vapor-hello-world\/.build\/checkouts\/json.git-9153249592855998091\/",
+    "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++DD34A35" : "vapor-hello-world\/.build\/checkouts\/crypto.git-7980259129511365902\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "vapor-hello-world",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "vapor-hello-world.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/tls.git-2678149690400510061",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "013355313FF9FF2B55EA1241A5D12353638D9AC3+++446CB15"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/crypto.git-7980259129511365902",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++DD34A35"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/postgresql-provider--8238225841508410504",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A000D15E5D587E98AA6062DC3514BBD1EE82D08+++F2E0BC5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/core.git-9210800844849382486",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++6C9C6B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/routing.git-5366657101075133678",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++96BA961"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/engine.git-3311994267206676365",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++9762F05"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/engine.git-3311994267206676365",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++A064C6D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/routing.git-5366657101075133678",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++B2E6A84"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/vapor.git-5492988889259800272",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++DEE5686"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/core.git-9210800844849382486",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++ED8ABDD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/leaf.git-9164445114487378533",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6400345F86F53D4096DD633F09AAE772FA6A202B+++9DD3CEC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/fluent.git-6251908308727715749",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++B8F5CF7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/polymorphic.git--4354167031091999056",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC+++8F939E9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/console.git--2431895819212044213",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++E7E15BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/clibressl.git-4924093653370840509",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "789252EF81C502A43EF1153AAFB885D64C59FEBD+++66B8EBE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/Turnstile.git-2443676010155639616",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E7C1062562B886ABFA1C65C1E929E1339657116+++920D978"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/Jay.git--595626396716718175",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC+++5DF8F43"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/json.git-9153249592855998091",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9948E95A70F754B78E92114BF205DC946294AF5D+++566AAB7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/socks.git--8001262774462276871",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++FBD7E3F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/postgresql-driver.git-1390385983276277199",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D593077127927B16A2AFDAF369C35CBF2F2669C+++AF7F0D4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/multipart.git-4210556629793786970",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++2C90E75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/postgresql.git-5650722971996441103",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D81F653129D614C7585FD79F985702AFD09DBE56+++6B72B68"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.heroku.com\/shielded-lake-16378.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA64A9D2869A8EB9F0025CBAB53CA9186B5D330C+++52738E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/path-indexable.git-6101080875983074629",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++11830AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/node.git-9175390252000121167",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++4D91E5D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Issy\/Desktop\/vapor-hello-world\/.build\/repositories\/node.git-9175390252000121167",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++7E14E3F"
+    }
+  ]
+}
