@@ -1,0 +1,32 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+
+# [START handlers]
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /.*
+  script: main.app
+# [END handlers]
+
+# [START libraries]
+libraries:
+- name: webapp2
+  version: latest
+- name: jinja2
+  version: latest
+# [END libraries]
+
+
+skip_files:
+- ^(.*/)?#.*#$
+- ^(.*/)?.*~$
+- ^(.*/)?.*\.py[co]$
+- ^(.*/)?.*/RCS/.*$
+- ^(.*/)?\..*$
+- ^(.*/)?\.bak$
+- ^(.*/)?\.txt$
+- ^(.*/)?\.sql3$

@@ -1,0 +1,6 @@
+cron:
+- description: daily summary email
+  url: /summaryEmail/
+  #target: beta
+  timezone: America/Chicago
+  schedule: everyday 22:00
