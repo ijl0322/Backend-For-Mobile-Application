@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>578922721296-ae1q5r0isi3jcj4hf1fl0qsk63udmt0o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.578922721296-ae1q5r0isi3jcj4hf1fl0qsk63udmt0o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMS3FUBOgaekxKfx_MAYwntD-kByoRveQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>578922721296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.isabeljlee.Chatty-chat</string>
+	<key>PROJECT_ID</key>
+	<string>chatty-chat-1c559</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatty-chat-1c559.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:578922721296:ios:2e9382d66ea0857e</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatty-chat-1c559.firebaseio.com</string>
+</dict>
+</plist>
